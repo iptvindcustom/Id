@@ -1,1 +1,44 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRANSTV.id",TRANSTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="TRANS7.id",TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="CNN.id",CNN
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w80388450_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="CNBC.id",CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w481242722_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="ANTV.id",ANTV
+https://streaming.indihometv.com/atm/hlsv3/ANTV/playlist.m3u8
+#EXTINF:-1 tvg-id="TVONE.id",TVONE
+https://streaming.indihometv.com/atm/hlsv3/tvone/playlist.m3u8
+#EXTINF:-1 tvg-id="MAXSTREAM.id",MAXSTREAM
+https://streaming.indihometv.com/joss/194/maxstream/playlist.m3u8
+#EXTINF:-1 tvg-id="METROTV.id",METROTV
+https://streaming.indihometv.com/atm/hlsv3/METRO_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="KOMPASTV.id",KOMPASTV
+https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="NETTV.id",NETTV
+https://streaming.indihometv.com/joss/133/net/playlist.m3u8
+#EXTINF:-1 tvg-id="iNEWS.id",iNEWS
+https://streaming.indihometv.com/atm/hlsv3/inews/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV.id",RTV
+https://streaming.indihometv.com/atm/hlsv3/RAJAWALI_TV/playlist.m3u8
+#EXTINF:-1 tvg-id="rodjaTV.id",rodjaTV
+https://streaming.indihometv.com/atm/hlsv3/rodjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRI.id",TVRI KALTIM
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+#EXTINF:-1 tvg-id="TRANSTV.id",TRANSTV
 
+#EXTINF:-1 tvg-id="TRANSTV.id",TRANSTV
+
+#EXTINF:-1 tvg-id="TRANSTV.id",TRANSTV
+
+#EXTINF:-1 tvg-id="TRANSTV.id",TRANSTV
+
+#EXTINF:-1 tvg-id="TRANSTV.id",TRANSTV
+
+#EXTINF:-1 tvg-id="TRANSTV.id",TRANSTV
+
+#EXTINF:-1 tvg-id="TRANSTV.id",TRANSTV
+
+#EXTINF:-1 tvg-id="TRANSTV.id",TRANSTV
